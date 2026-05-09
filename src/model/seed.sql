@@ -1,4 +1,4 @@
-CREATE TABLE equipment_checkouts (
+CREATE TABLE equipment (
     id INT AUTO_INCREMENT PRIMARY KEY,
     itemName VARCHAR(100) NOT NULL,
     checkedOutBy VARCHAR(100) NOT NULL,
